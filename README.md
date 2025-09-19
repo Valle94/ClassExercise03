@@ -1,6 +1,8 @@
 # ClassExercise03
 A 3D Unity Project containing a basic scene with fully imported assets.
 
+GitHub Link: https://github.com/Valle94/ClassExercise03
+
 This project was created by Max Valle as a brief exercise on importing and using assets in Unity3d. 
 
 I decided to go with an indoor scene because I wanted to see if I could recreate my old apartment in Unity with assets from the asset store. As far as scenario, the two things that are possible within the scene are player movement and looking around, as well as opening and closing all the doors. Additionally, some of the doors for objects in the kitchen can also be opened and closed.
